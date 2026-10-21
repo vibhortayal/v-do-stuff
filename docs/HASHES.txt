@@ -9,3 +9,6 @@ b95132111ac4d8c20b69c70c18c52caf712232bad01af3600318235e417da92c  strips/012-sai
 ea9f61711f0f40bca96581346d086020e3209f766c7635217f1629e2cb06ecc2  strips/013-exhibit-a/slide1.webp
 f02ea88cd33c702df5537ab9ae0d498cad2cab18b156ebd5f8e41993f202b4ec  characters/refs/published-style-ref-fineprint.jpg
 dde604d7f55ba5428e0f246ed007a6f6d8552ce82f92caa9a1419a32ac3eabc0  characters/refs/published-style-ref-kitchen.jpg
+d90e4418ff9dfcfd3a931e042204859ae831d97edb0ebafdc746b3d099ba628c  strips/013-exhibit-a/slide1-v11.webp
+f5dee5f40e9a0b12af0d5f1513fdc5a9b8edf89c960963d3bb4035c608399a69  strips/013-exhibit-a/slide2-v11.webp
+a5d0ea58eeadb10b33dec1ecf67b0267d5040e0876025ee0a8bb64c137ae9c7d  strips/013-exhibit-a/slide3-v11.webp
