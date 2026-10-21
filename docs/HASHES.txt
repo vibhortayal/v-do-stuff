@@ -1,0 +1,6 @@
+67b9096066657b33da5603c500df38c7b45907db0f1c85444b6f9e096e5ee1a3  characters/refs/pair-styleA-slide1.webp
+806bc814078811358152f3e443f02b4bdd9e1f455ece237a37c99f4b52ca430f  characters/refs/vibhor-styleA-lock-v1.webp
+2f9ca69bc7fc121ca1c4f8197a7219c04370ad3ab011b6e9490d1b02a394bfd9  characters/refs/wife-styleA-lock-v2.webp
+67b9096066657b33da5603c500df38c7b45907db0f1c85444b6f9e096e5ee1a3  strips/012-said-out-loud/slide1.webp
+46de0663dfcac5d3df88579591d75371e65c8b36d47d745278c05c24dea266f4  strips/012-said-out-loud/slide2.webp
+b95132111ac4d8c20b69c70c18c52caf712232bad01af3600318235e417da92c  strips/012-said-out-loud/slide3.webp
