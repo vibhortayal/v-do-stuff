@@ -13,7 +13,8 @@ Vibhor sits at the counter mid-scroll on his phone, biscuit in the other hand,
 completely unbothered. Nobody speaks. She looks at him. Then at the plate.
 Then back at him.
 - Dialogue: none.
-- Caption: "No one had spoken yet. Everything had been said."
+- Caption: NONE (owner decision 2026-10-21: "caption not needed in first one" —
+  no bottom strip on slide 1, the silence carries it).
 
 ## Slide 2 — The Charge Sheet
 Same kitchen, moments later. Wife reads the charges, counting them off on her
