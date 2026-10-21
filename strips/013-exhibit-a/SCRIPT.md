@@ -1,7 +1,7 @@
 # Strip 013 — "Exhibit A"
 
 Series: v_do_stuff · 3-slide square carousel · Style A · Characters per LOCK v1.0
-Status: SCRIPT DRAFT — awaiting owner word pass (2026-10-21). No art until approved.
+Status: COMPLETE — script approved by owner 2026-10-21; all 3 panels final (slide1 her-POV framing, owner-picked; slides 2-3 typo+header fixed). Awaiting posting decision.
 Follows strip 012 "Said Out Loud" (the quiet questions). Theme: couples fight over
 silly stuff — chores, his skipped lunch, her work hours, his phone.
 

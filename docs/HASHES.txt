@@ -6,3 +6,4 @@
 b95132111ac4d8c20b69c70c18c52caf712232bad01af3600318235e417da92c  strips/012-said-out-loud/slide3.webp
 0a25644e01d5ba4d7fac7b4c24d8dab820dfb16faca882b8483b94ea6508350c  strips/013-exhibit-a/slide2.webp
 795c1cc18571cbc3812a0ef4bb54b38b1b0c3a341a4b730537fa94d407a2ee90  strips/013-exhibit-a/slide3.webp
+ea9f61711f0f40bca96581346d086020e3209f766c7635217f1629e2cb06ecc2  strips/013-exhibit-a/slide1.webp
