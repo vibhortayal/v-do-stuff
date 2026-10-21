@@ -66,6 +66,11 @@ panels or strips.
 - LETTERING IS A SEPARATE STEP, done by the agent (never the image generator):
   speech bubbles + caption band added in post. This is law — generator lettering
   produced typos ("untuched") and baked-in header lines on 2026-10-21.
+  Placement rule (owner 2026-10-21: "the bubbles are blocking the faces"):
+  bubbles live in negative space only (cabinets, walls, window, counter) and
+  NEVER cover a face — eyes, glasses, nose, mouth stay fully visible. Tails
+  point to the speaker and may touch a hairline or shoulder edge only. Check
+  every lettered panel for face coverage before presenting.
 - Format: vertical panel with a white caption band below (target 1080x1250);
   caption short and understated.
 - QC before presenting: faces identical to the approved strip; extra hands; odd

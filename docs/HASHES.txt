@@ -14,3 +14,5 @@ f5dee5f40e9a0b12af0d5f1513fdc5a9b8edf89c960963d3bb4035c608399a69  strips/013-exh
 a5d0ea58eeadb10b33dec1ecf67b0267d5040e0876025ee0a8bb64c137ae9c7d  strips/013-exhibit-a/slide3-v11.webp
 70793df1b5a12cc03746a7d5abd073078f684249a7312e69af57ffa714556624  strips/013-exhibit-a/slide1-v11.webp
 e982108956229b6a0b0be33583c1d02ce6f31ff54faf523977de6cb44be46f10  strips/013-exhibit-a/slide2-v11.webp
+38758dbe16941d6b40b97eff0a1f26eb55e66f139d491b64ed96b93aec6c0308  strips/013-exhibit-a/slide2-v11.webp
+aed33688a504846f852ea8a9fb33fe9fe0d7b8d8f3b24aeff897307634e41efe  strips/013-exhibit-a/slide3-v11.webp
