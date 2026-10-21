@@ -71,6 +71,12 @@ panels or strips.
   NEVER cover a face — eyes, glasses, nose, mouth stay fully visible. Tails
   point to the speaker and may touch a hairline or shoulder edge only. Check
   every lettered panel for face coverage before presenting.
+  Corollary (owner 2026-10-21, after a bad pass): a bubble wedged BETWEEN the
+  two heads, resting on hair or jabbing a tail at glasses, is a FAIL even if
+  no facial feature is technically covered. Corners and edges of the frame
+  first; when in doubt, move the bubble to the counter/sink zone. The agent's
+  own pass is not sufficient evidence — when the owner asks, an independent
+  review checks placement, and its fails get fixed, not argued.
 - Format: vertical panel with a white caption band below (target 1080x1250);
   caption short and understated.
 - QC before presenting: faces identical to the approved strip; extra hands; odd
