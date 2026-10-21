@@ -1,9 +1,8 @@
 # CHARACTER LOCK — v_do_stuff
 
-**Lock version: v1.1 — locked 2026-10-21 by Vibhor Tayal (owner).**
-(v1.1 adds the mandatory generation + lettering pipeline in the Design System
-section below — owner instruction 2026-10-21: "all future strips should adhere
-to these." The v1.0 character locks are unchanged.)
+**Lock version: v1.2 — locked 2026-10-21 by Vibhor Tayal (owner).**
+(v1.1 added the mandatory generation + lettering pipeline; v1.2 adds the House
+Design canon. The v1.0 character locks are unchanged.)
 Rule zero: the characters CANNOT drift. Continuity across every strip depends on this file.
 Any change to a canonical file below requires the owner's explicit approval, a new lock
 version, and a changelog entry. No agent may silently re-lock, substitute, or "improve"
@@ -50,6 +49,15 @@ no photo-realism. Use the attached reference images for the two main characters
 and keep their faces identical. Vertical 1080x1250, white caption band below,
 rounded sans-serif text, short understated caption. Check for extra hands, odd
 fingers, mirrored errors."
+
+**House design (canon — owner 2026-10-21, "consistency in the house design"):**
+The apartment is ONE house across all strips; interiors must not change between
+panels or strips.
+- Kitchen cabinets: WHITE (uppers and lowers), simple round knobs. (Generator
+  defaulted to wood in strips 013 slides 1–2 — corrected; slide 3 already white.)
+- Kitchen: light stone countertops, stainless sink, warm under-cabinet light.
+- More house details get added here as the owner calls them — when he names a
+  house feature, it becomes canon.
 
 **Process rules:**
 - Generate the SCENE ONLY — no text, no speech bubbles, no letters baked into the
@@ -117,3 +125,6 @@ fingers, mirrored errors."
   generation, lettering as a separate agent step, vertical format with caption band,
   QC checklist. Two published panels added to characters/refs/ as style references.
   Strip 013 is the first strip rebuilt under this pipeline.
+- v1.2 — 2026-10-21: House Design canon added (owner: "consistency in the house
+  design. cabinets white"). Kitchen cabinets are WHITE in canon; strip 013 slides
+  1–2 corrected to match slide 3.
