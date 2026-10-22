@@ -1,7 +1,7 @@
 # Strip 013 — "Exhibit A"
 
 Series: v_do_stuff · 3-slide square carousel · Style A · Characters per LOCK v1.0
-Status: COMPLETE under LOCK v1.1 pipeline — finals are slide1-v11.webp (silent POV), slide2-v11.webp, slide3-v11.webp (scene-only generation + agent lettering). The earlier watercolor finals (slide1/2/3.webp) are SUPERSEDED (owner: palette/style drift) — kept for history. Awaiting posting decision.
+Status: v12 CANDIDATE set (owner workflow: wordless scenes first, then bubbles in empty space only) — slide1-v12 (silent), slide2-v12, slide3-v12, vertical. Awaiting owner verdict; v11 and watercolor sets superseded.
 Follows strip 012 "Said Out Loud" (the quiet questions). Theme: couples fight over
 silly stuff — chores, his skipped lunch, her work hours, his phone.
 
