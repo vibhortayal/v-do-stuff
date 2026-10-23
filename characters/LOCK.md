@@ -1,8 +1,7 @@
 # CHARACTER LOCK — v_do_stuff
 
-**Lock version: v1.2 — locked 2026-10-21 by Vibhor Tayal (owner).**
-(v1.1 added the mandatory generation + lettering pipeline; v1.2 adds the House
-Design canon. The v1.0 character locks are unchanged.)
+**Lock version: v1.3 — revised 2026-10-23 per Vibhor's instruction to lock the strip 013 characters and update the prompt/reference.**
+(v1.1 added the generation + lettering pipeline; v1.2 adds the house design canon; v1.3 updates the shared character descriptions and adds strip 013 visual references.)
 Rule zero: the characters CANNOT drift. Continuity across every strip depends on this file.
 Any change to a canonical file below requires the owner's explicit approval, a new lock
 version, and a changelog entry. No agent may silently re-lock, substitute, or "improve"
@@ -12,9 +11,12 @@ a canonical reference.
 
 | File | Subject | SHA-256 |
 |---|---|---|
-| characters/refs/wife-styleA-lock-v2.webp | Wife — canonical sheet | 2f9ca69bc7fc121ca1c4f8197a7219c04370ad3ab011b6e9490d1b02a394bfd9 |
-| characters/refs/vibhor-styleA-lock-v1.webp | Vibhor — canonical sheet | 806bc814078811358152f3e443f02b4bdd9e1f455ece237a37c99f4b52ca430f |
-| characters/refs/pair-styleA-slide1.webp | Pair in-scene reference | 67b9096066657b33da5603c500df38c7b45907db0f1c85444b6f9e096e5ee1a3 |
+| characters/refs/wife-styleA-lock-v2.webp | Existing wife canonical sheet | 2f9ca69bc7fc121ca1c4f8197a7219c04370ad3ab011b6e9490d1b02a394bfd9 |
+| characters/refs/vibhor-styleA-lock-v1.webp | Existing Vibhor canonical sheet | 806bc814078811358152f3e443f02b4bdd9e1f455ece237a37c99f4b52ca430f |
+| characters/refs/pair-styleA-slide1.webp | Existing pair in-scene reference | 67b9096066657b33da5603c500df38c7b45907db0f1c85444b6f9e096e5ee1a3 |
+| strips/013-exhibit-a/013-s1.png | Strip 013 final visual reference — Vibhor | 772e003ed657815f567d6f523981ad4ebeab00d3833579b143f220050dd979cd |
+| strips/013-exhibit-a/013-s2.png | Strip 013 final visual reference — pair | 64af306ba436076800fd1e6bb5d3032322f9a2254fef03b2d6b9b3905314cf56 |
+| strips/013-exhibit-a/013-s3.png | Strip 013 final visual reference — pair | 5c8d176b5a095e679ce1788ea5ac212e6242a207c65b0162bfc8dd3aa1375e80 |
 
 Source photos the sheets were built from live in characters/source/ (owner-supplied).
 Rejected/superseded versions live in characters/archive/ with the reason in the filename —
@@ -83,27 +85,21 @@ panels or strips.
   fingers; mirrored errors; spelling (trivially guaranteed by separate lettering);
   heights/proportions per the rules below.
 
-## Vibhor — locked traits
+## Vibhor — locked traits (v1.3)
 
-- Short STRAIGHT black hair, neatly cropped, grey at temples. NEVER curly/voluminous.
-- Short trimmed beard + moustache, grey flecks on chin.
-- Round thin metal glasses. Broad toothy grin. Medium build.
-- Black smartwatch on LEFT wrist. Default outfit: navy crew-neck sweater, dark jeans.
-- Height 5'10" (178 cm).
+- Age-appropriate face (41), medium-brown skin, slight tired lines.
+- Thin round wire glasses; short neat dark hair, close on the sides, only slightly wavy on top, with a few gray flecks. NOT curly, thick, or voluminous.
+- Short trimmed stubble beard. Lean, natural build.
+- Outfit changes with scene; in strip 013 he wears an olive henley.
+- Use the strip 013 final panels above as current visual examples, alongside established identity references.
 
-## Wife — locked traits
+## Kajal — locked traits (v1.3)
 
-- Long STRAIGHT black hair, slightly OFF-CENTRE part, low volume, past shoulders.
-  NEVER wavy, curly, or brown.
-- Soft oval face — full but NOT too round (owner rejected both the too-round v1 and the
-  over-slimmed v3; v2's balance is correct — do not slim or round her further).
-- Straight FLAT brows (not arched). Medium almond eyes, minimal makeup, no glam.
-- Medium straight nose, slightly broader base. Warm medium skin.
-- Signature smile: wide, upper teeth, cheeks up, eyes crinkling, DIMPLES in both cheeks.
-  Even laughing: NO deep smile lines, nasolabial folds, crow's feet, or under-eye bags —
-  she must always read pretty, fresh, rested.
-- Small hoop earrings. Default outfit: sage green sweater/top, light trousers.
-- Height 5'6" (168 cm).
+- Dark black-brown hair just past the shoulders, straight with a slight wave and a side part.
+- Warm medium skin; soft, dimpled smile; minimal makeup.
+- Small stud earrings. Side characters must look clearly distinct from her.
+- Outfit changes with scene; in strip 013 she wears a soft blue top.
+- Use the strip 013 final panels above as current visual examples, alongside owner-supplied identity photos when available.
 
 ## Proportions & heights (both, every panel)
 
@@ -127,6 +123,8 @@ panels or strips.
 
 ## Changelog
 
+- v1.3 — 2026-10-23: Shared character descriptions updated per Vibhor's explicit instruction to lock these characters and update the prompt/reference. Vibhor: age-appropriate 41-year-old face, thin round wire glasses, short neat dark hair only slightly wavy, short trimmed stubble, lean build. Kajal: dark hair past shoulders with slight wave and side part, soft dimpled smile, small studs. Strip 013 final panels added as visual references. Outfit may change by scene.
+
 - v1.0 — 2026-10-21: Initial lock. Wife sheet v2 (photo-built, owner: "this is the
   closest"). Vibhor sheet v1 (photo-built). Style A adopted. Heights/proportions rules
   recorded. Strip 012 "Said Out Loud" committed as the reference strip.
@@ -139,3 +137,4 @@ panels or strips.
 - v1.2 — 2026-10-21: House Design canon added (owner: "consistency in the house
   design. cabinets white"). Kitchen cabinets are WHITE in canon; strip 013 slides
   1–2 corrected to match slide 3.
+
