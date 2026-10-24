@@ -1,5 +1,20 @@
 # Reels — drafts live here. NOTHING in this folder is posted.
 
+## reel-DAY1-animated-DRAFT.mp4 — STATUS: DRAFT / EXPERIMENT (built 2026-10-24, owner: "some animation?")
+- Source clips: clips/ (image-to-video of strips/002-send slides 1–3, 10s each,
+  trimmed to 5 / 4.5 / 5s) + hook text + end card. 1080×1920, 16.5s, silent.
+- What works: real motion — blinking, the sigh, glowing phone, twinkling city,
+  steam. Feels like a tiny movie, not a slideshow.
+- QC WARNING (Spark, frame-checked): the video model DROPS speech/thought
+  bubbles ("Do it.", "Now what?", "How do I pay the bills?" vanish) and drifts
+  poses — clip 1 bows his head and moves his hand to the keyboard; hair reads
+  curlier than the lock. On-screen text (laptop, bank balance, phone) survives.
+  For a comic whose jokes live in the bubbles, this is a real cost. Options:
+  (a) ship as-is for visual storytelling + caption carries the jokes,
+  (b) hybrid: animated hook clip + zoom panels for bubble beats,
+  (c) re-add the lost lines as animated text overlays in the edit.
+- Publish only on Vibhor's per-item go-ahead.
+
 ## reel-DAY1-send-DRAFT.mp4 — STATUS: DRAFT (built 2026-10-24, owner: "start with day1")
 - Source: strips/002-send (Day 1 "Send", posted Oct 7 2026). Story order starts HERE.
 - Format: 1080×1920, 11.8s, silent. Same template as reel-001.
