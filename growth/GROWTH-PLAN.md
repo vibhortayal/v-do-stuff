@@ -1,10 +1,13 @@
 # v_do_stuff — Growth Plan (started 2026-10-24, owner-approved)
 
-## Standing authorization — FULL OPS CONTROL (owner, 2026-10-24)
-Vibhor granted Spark full operational control of @v_do_stuff. Operating rules:
-1. Post only strips/reels built from his content and the locked characters — nothing off-script.
+## Standing authorization — FULL OPS CONTROL (owner, 2026-10-24; amended same day)
+Vibhor granted Spark full operational control of @v_do_stuff, with one hard
+amendment in his own words: "dont auto run content posting." Operating rules:
+1. CONTENT POSTING IS NEVER AUTO-RUN. Spark prepares strips/reels/captions
+   ready-to-post; every publish (post, reel, story) waits for Vibhor's
+   per-item go-ahead. Only his content and the locked characters, nothing off-script.
 2. Nothing gets deleted without his word.
-3. Engagement stays human-paced within the caps in Lever 5.
+3. Engagement stays human-paced within the caps in Lever 5 (this DOES run).
 4. Money, brands, and collabs come to him first.
 Out of scope even under full control: account security settings (his alone),
 DMs (separate connection, not linked; no messaging as him without per-case ask),
