@@ -12,6 +12,11 @@ amendment in his own words: "dont auto run content posting." Operating rules:
 Out of scope even under full control: account security settings (his alone),
 DMs (separate connection, not linked; no messaging as him without per-case ask),
 username changes and post pinning (not available via the connector).
+CONTENT SUPPLY (owner, 2026-10-24): "don't prepare. I will push the content in
+the github" — Vibhor supplies ALL content himself via the v-do-stuff repo.
+Spark does NOT prepare or build content (no strips, reels, or drafts). Spark's
+running work is operations only: profile upkeep, engagement (Lever 5), weekly
+metrics, and publishing owner-pushed content when he gives the per-item go.
 
 ## Baseline (live, 2026-10-24)
 - 43 followers, 12 posts, following 39. Oct 8: 25 followers → Oct 21: 41 → Oct 24: 43.
