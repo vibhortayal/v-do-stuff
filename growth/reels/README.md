@@ -60,3 +60,16 @@
   under independent review at build time — clip1 known frame-crop issue,
   disclosed. Character drift (hair/beard/expression) fixed by statue mode:
   character frozen, only environment animates (steam, lamp, lights, glow).
+
+## Review record — Day 1 consistency passes (2026-10-24)
+- Independent review #1 (locked clips): OVERALL FAIL. Clip2 (locked-v2, 1.5s
+  window) passed 5/5. Clip1: hair curl/volume + head-bow fails. Clip3: beard
+  grey spread + hair + expression fails.
+- Independent review #2 (statue clips): OVERALL FAIL. Clip3 statue 4/5 (only
+  hair: flattened/swept, lost tousled volume). Clip1 statue 1/5 (beard grey
+  spread, hair restyle, cropped framing, title+bubble missing).
+- Lesson: image-to-video redraws the character every take; prompt restraint
+  reduces but does not eliminate drift. Generation passes bounded at 3/panel.
+- Proposed approach change (awaiting owner): COMPOSITE — original panel as
+  the picture, animate environment only (lamp glow, city lights, phone glow)
+  via masked overlays. Consistency guaranteed by construction.
