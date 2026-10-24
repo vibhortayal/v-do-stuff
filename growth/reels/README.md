@@ -118,3 +118,28 @@ sound-page traffic). Recommendation recorded: owner posts this one in-app.
   hook "Day 1: I quit my job. / Would you hit send?", "Do it." overlay,
   end card "Tomorrow: / everything goes into a box. / Follow the story".
 - Still a DRAFT — publishes only on his per-item go-ahead (music plan above).
+
+## reel-DAY1-SHARE-DRAFT.mp4 — STATUS: DRAFT, fresh rebuild (2026-10-24, owner-directed)
+- Built FRESH from the strips per owner's word, all lessons applied:
+  panels 1+3 = composites of the ORIGINAL art (light only: windows, lamp,
+  phone glow); panel 2 = the animated window that passed review 5/5.
+  Panel 3 screen patched at SOURCE (assets/panel3-patched.jpg): the amount
+  now reads "not enough." — zero $43 anywhere in video, hook, or caption.
+- Share design: hook "I quit my job at midnight. / With no backup plan."
+  End card adds the share line: "Send this to someone / who needs to hit
+  send." 1080x1920, 11.4s, silent (music shortlist above applies).
+- Caption draft (share-first):
+  "Day 1. June 2023, just before midnight. Resignation written, finger on
+  the trackpad, no backup plan. Would you have hit send?
+  Send this to the friend who keeps saying 'one day.'
+  The full story starts at post 1.
+  #iquitmyjob #dayone #comicdiary #desicouple #torontolife #sanfrancisco
+  #immigrantstories #webcomic #sliceoflife #adulting #relatablecomics #careerbreak"
+- Audit (Spark, frame-checked 1.0s / 7.5s / end card): no $43 visible;
+  text inventory = title, Do it., resignation email, Sent!/No undo.,
+  Now what?, How do I pay the bills?, Bank Balance: not enough.,
+  Rent due in 5 days., Tomorrow caption, hook, end card — all intended.
+  Nits: light seam over the Do it. bubble (window light); "not enough."
+  runs ~10px past its patch edge; faint edge on the phone-glow sprite.
+- Supersedes reel-DAY1-REGEN-DRAFT (built, never audited to owner).
+  Publish only on owner's per-item go-ahead.
