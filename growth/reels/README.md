@@ -87,3 +87,27 @@
 - Known nit: on panel 1 the light layer plays over the right half of the
   "Do it." bubble (it sits in front of the window) — reads as light sweep.
 - Cover: reel-DAY1-composite-cover.jpg. Publish only on owner's go-ahead.
+
+## Music shortlist for reel-DAY1-composite (researched 2026-10-24)
+1. "Patient Zero" — Taylor Swift. #1 trending this week (CreatorDB Oct 21);
+   reported use: short story-led edits around one clear moment. Virality pick.
+2. "we fell in love in october" — girl in red. Yearly October resurgence,
+   #3 this week; nostalgic diary/couple fit, series frame is set in October.
+3. "Autumn Colors" — LuLuMusic. Soft acoustic instrumental ~86K reels,
+   business-safe; only route that works baked-in via connector publish.
+NOTE: trending-audio benefit requires attaching from IG's library IN-APP.
+Connector publishing cannot attach library audio (baked file gets no
+sound-page traffic). Recommendation recorded: owner posts this one in-app.
+
+## Growth playbook for this reel (2026-10-24)
+- Caption: question hook + send/save prompts (shares/saves are the account's
+  weakest metrics: 9 shares, 1 save in the last 30 days).
+- Post ~8:30am PT weekday (India prime evening + US morning scroll).
+- Pin first comment: "Day 1 of quitting with no plan. Day 2 is worse.
+  Start from post 1" — drives profile visits (the conversion leak).
+- Golden hour: capped engagement session right after posting; reply to
+  every comment fast.
+- Story share with "Would you hit send? YES/NO" poll (in-app, owner).
+- Series: Day 2 composite follows in days; end card already teases it.
+- Measure: 48h + 7d vs baseline in Monday metrics (views, completion,
+  shares, saves, follows gained).
