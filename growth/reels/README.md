@@ -111,3 +111,10 @@ sound-page traffic). Recommendation recorded: owner posts this one in-app.
 - Series: Day 2 composite follows in days; end card already teases it.
 - Measure: 48h + 7d vs baseline in Monday metrics (views, completion,
   shares, saves, follows gained).
+
+## OWNER VERDICT (2026-10-24): reel-DAY1-v2-DRAFT is the chosen Day 1 cut
+- Owner, on the v2 statue cut: "this was better." Preferred over the
+  composite. Captions revised per his notes (no $43 emphasis):
+  hook "Day 1: I quit my job. / Would you hit send?", "Do it." overlay,
+  end card "Tomorrow: / everything goes into a box. / Follow the story".
+- Still a DRAFT — publishes only on his per-item go-ahead (music plan above).
