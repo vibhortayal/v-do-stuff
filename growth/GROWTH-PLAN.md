@@ -79,7 +79,29 @@ QUESTION or SEND-TO prompt → hashtags.
 - Log every session below: date, accounts, actions, verbatim comments.
 
 ### Engagement log
-- 2026-10-24 session 1: (pending browser report)
+- 2026-10-24 session 1 (12:05–12:24 PT, browser, signed in as @v_do_stuff):
+  6 follows, 12 likes, 6 comments — inside caps, no warnings/rate limits.
+  All comments specific to the account's actual comic; each verified posted.
+  1. @maaike.hartjes — followed, 2 likes. On her Easter post: "The logic of
+     crumpling the foil extra tight so it looks like fewer chocolate eggs were
+     eaten is painfully relatable 😄"
+  2. @lovestory.comics — followed, 2 likes. "The way he just flops down on her
+     lap while she is still on her phone, and then the little dog piles on too,
+     is so sweet 🥰"
+  3. @sofarsohigh — followed, 2 likes. On the Delhi winters/chai post: "That
+     gloomy winter night panel, wrapped up feeling cold and lonely, makes the
+     chai-heals-everything ending land so well ☕"
+  4. @detective_ritu_babu — followed, 2 likes. "All it took was one invite from
+     a childhood friend and suddenly Ritu Babu and Mitali are off to the
+     Himalayas — I love how quickly the wanderlust kicks back in 🏔️"
+  5. @uhmonda — followed, 2 likes. On the SF comic: "Calling San Francisco a
+     hellhole in that panel while still holding your 415 number with pride is
+     such a perfect love/hate contradiction 🌉"
+  6. @inkyrickshaw — followed, 2 likes. On the roommates/chores post: "The
+     'Seriously? He didn't do the dishes yet?' panel is perfect — past self and
+     future self really are the worst roommates 😄"
+  Skipped: accounts >50k followers (incl. @shudhdesicomic 4.5M, @couple_comic_
+  1.8M), sub-500 accounts, repost/curation and platform accounts.
 
 ## Weekly check (Spark, Mondays)
 - Pull profile + insights (7d): followers delta, reach, profile visits, comments,
