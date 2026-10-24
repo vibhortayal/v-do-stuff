@@ -18,12 +18,14 @@
 ## reel-DAY1-send-DRAFT.mp4 — STATUS: DRAFT (built 2026-10-24, owner: "start with day1")
 - Source: strips/002-send (Day 1 "Send", posted Oct 7 2026). Story order starts HERE.
 - Format: 1080×1920, 11.8s, silent. Same template as reel-001.
-- Hook (0–3.2s): "Would you quit your job / with $43.12 in the bank?"
+- Hook (0–3.2s): "Day 1: I quit my job. / Would you hit send?"
+  (revised 2026-10-24 per owner: do NOT emphasize the $43.12 — "exaggerated".
+  The figure stays in the panel art only, never in hooks/captions.)
 - End card: "Tomorrow: / everything goes into a box. / Follow the story - @v_do_stuff"
   (the strip's own cliffhanger — sets up Day 2 "Boxed Up").
 - Cover: reel-DAY1-cover.jpg.
 - Caption draft:
-  "Day 1. June 2023. I quit my job with $43.12 in the bank and rent due in 5 days.
+  "Day 1. June 2023. I quit my job with almost nothing saved and rent around the corner.
   Would you have hit send? The full story is on the profile, from the beginning.
   #iquitmyjob #dayone #comicdiary #desicouple #torontolife #sanfrancisco
   #immigrantstories #webcomic #sliceoflife #adulting #relatablecomics #careerbreak"
@@ -73,3 +75,15 @@
 - Proposed approach change (awaiting owner): COMPOSITE — original panel as
   the picture, animate environment only (lamp glow, city lights, phone glow)
   via masked overlays. Consistency guaranteed by construction.
+
+## reel-DAY1-composite-DRAFT.mp4 — STATUS: DRAFT (built 2026-10-24, owner's pick)
+- Technique: COMPOSITE. Panels 1 and 3 are the ORIGINAL published art,
+  pixel-identical — nothing redraws the character, so consistency holds by
+  construction. Motion is light only, composited per frame from layers made
+  of the panels themselves: window lights brighten/shimmer, lamp glow
+  breathes, phone glow pulses (panel 3). Panel 2 is the animated take that
+  PASSED independent review 5/5 (1.5s window). Hook (new, no $ emphasis):
+  "Day 1: I quit my job. / Would you hit send?" + end card. 1080x1920, 12s.
+- Known nit: on panel 1 the light layer plays over the right half of the
+  "Do it." bubble (it sits in front of the window) — reads as light sweep.
+- Cover: reel-DAY1-composite-cover.jpg. Publish only on owner's go-ahead.
