@@ -1,5 +1,15 @@
 # v_do_stuff — Growth Plan (started 2026-10-24, owner-approved)
 
+## Standing authorization — FULL OPS CONTROL (owner, 2026-10-24)
+Vibhor granted Spark full operational control of @v_do_stuff. Operating rules:
+1. Post only strips/reels built from his content and the locked characters — nothing off-script.
+2. Nothing gets deleted without his word.
+3. Engagement stays human-paced within the caps in Lever 5.
+4. Money, brands, and collabs come to him first.
+Out of scope even under full control: account security settings (his alone),
+DMs (separate connection, not linked; no messaging as him without per-case ask),
+username changes and post pinning (not available via the connector).
+
 ## Baseline (live, 2026-10-24)
 - 43 followers, 12 posts, following 39. Oct 8: 25 followers → Oct 21: 41 → Oct 24: 43.
 - Last 30 days: 330 accounts reached, 4,973 content views (53% from non-followers),
