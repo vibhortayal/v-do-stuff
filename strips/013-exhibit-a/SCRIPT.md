@@ -1,7 +1,7 @@
 # Strip 013 — "Exhibit A"
 
 Series: v_do_stuff · 3-slide square carousel · Style A · Characters per LOCK v1.0
-Status: v12 CANDIDATE set (owner workflow: wordless scenes first, then bubbles in empty space only) — slide1-v12 (silent), slide2-v12, slide3-v12, vertical. Awaiting owner verdict; v11 and watercolor sets superseded.
+Status: Finished and live on master. Approved final slides 013-s1.png, 013-s2.png, and 013-s3.png; committed through 6072192. Instagram post is live (see post link below).
 Follows strip 012 "Said Out Loud" (the quiet questions). Theme: couples fight over
 silly stuff — chores, his skipped lunch, her work hours, his phone.
 
@@ -41,3 +41,7 @@ windowsill playing a reel, and both of them are watching it while they work.
   fight strip first — recommend The List runs as 014 so the tease still pays off.
 - Fight seeds are all owner-supplied real life (2026-10-21): chores/cleaning,
   him not eating on time, her busy-at-work with no time for chores, his phone time.
+
+## Instagram post (2026-10-23)
+Posted: https://www.instagram.com/v_do_stuff/p/De2533PmuQs/
+Actual post caption (verbatim): "Survival of the cutest 🥰🫵"
