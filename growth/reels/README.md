@@ -51,3 +51,12 @@
 - 1080×1920, 16.5s, silent. Cover: reel-DAY1-hybrid-cover.jpg.
 - BOTH Day 1 versions are drafts in this folder: animated (raw) and hybrid.
   Neither is posted. Publish only on Vibhor's per-item go-ahead.
+
+## reel-DAY1-v2-DRAFT.mp4 — STATUS: DRAFT for owner review (built 2026-10-24)
+- Consistency cut: clip1 = statue take, clip2 = locked-v2 (tight 1.5s),
+  clip3 = statue take. Hook + end card as before; "Do it." restored as an
+  overlay on panel 1 (statue take cropped the bubble + title out of frame).
+- Review status: clip2 PASSED independent review (5/5). Clip1/3 statue takes
+  under independent review at build time — clip1 known frame-crop issue,
+  disclosed. Character drift (hair/beard/expression) fixed by statue mode:
+  character frozen, only environment animates (steam, lamp, lights, glow).
