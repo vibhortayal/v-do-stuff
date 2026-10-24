@@ -42,3 +42,12 @@
   #couplecomics #desicouple #indianparents #desidiaspora #marriedlife #webcomic
   #sliceoflife #immigrantstories #desihumor #comicdiary #relatablecomics #adulting"
 - Publish only on Vibhor's per-item go-ahead (standing rule: no auto-posting).
+
+## reel-DAY1-hybrid-DRAFT.mp4 — STATUS: DRAFT (built 2026-10-24, owner asked to see both)
+- Same animated clips as reel-DAY1-animated-DRAFT, with the lines the video
+  model ate re-added as timed text in the top band: hook (0–2.3s) → "Do it."
+  (2.4–5s) on panel 1; "Now what?" (0.3–2.6s) → "How do I pay the bills?"
+  (2.6–5s) on panel 3. Panel 2's joke ("Sent! / No undo.") survives in-panel.
+- 1080×1920, 16.5s, silent. Cover: reel-DAY1-hybrid-cover.jpg.
+- BOTH Day 1 versions are drafts in this folder: animated (raw) and hybrid.
+  Neither is posted. Publish only on Vibhor's per-item go-ahead.
