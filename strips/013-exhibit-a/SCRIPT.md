@@ -41,3 +41,7 @@ windowsill playing a reel, and both of them are watching it while they work.
   fight strip first — recommend The List runs as 014 so the tease still pays off.
 - Fight seeds are all owner-supplied real life (2026-10-21): chores/cleaning,
   him not eating on time, her busy-at-work with no time for chores, his phone time.
+
+## Instagram post (2026-10-23)
+Posted: https://www.instagram.com/v_do_stuff/p/De2533PmuQs/
+Actual post caption (verbatim): "Survival of the cutest 🥰🫵"
