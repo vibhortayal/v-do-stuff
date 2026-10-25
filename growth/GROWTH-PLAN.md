@@ -107,3 +107,33 @@ QUESTION or SEND-TO prompt → hashtags.
 - Pull profile + insights (7d): followers delta, reach, profile visits, comments,
   shares, saves. Compare vs baseline above. Report only deltas that matter;
   kill what's not working after 3 tries.
+
+### Engagement session 2 — 2026-10-25 (golden hour, strip 014 launch)
+Strip 014 "Company Clean" posted by owner ~11:44 AM PT (caption option 3,
+"This Is How We Do It" audio): https://www.instagram.com/p/De7YSKNGrk-/
+Session (browser, @v_do_stuff): 5 follows, 15 likes, 5 comments. No warnings.
+- @cleanwithella (17.5k, cleaning humor) — followed + liked + commented on
+  https://www.instagram.com/p/DX4wXTUkgf-/ : "This is painfully accurate — I
+  am absolutely the person who will not let anyone else clean it, then
+  wonder why I am suddenly the only one cleaning."
+- @hannakdraws (29.8k, diary comics) — followed + liked + commented on
+  https://www.instagram.com/p/DTYH13OjBvN/ : "Turning old diary entries into
+  slice-of-life comics is such a lovely idea — the "my name is Hanna, this
+  is my house" panels feel so warm and honest."
+- @a.storyof.two (23.5k, desi couple stories) — followed + liked + commented
+  on https://www.instagram.com/p/DYJpjt9CQYY/ : "The "mujhe kuch nahi hua"
+  line really got me — reading it as "just sit a little closer" is such a
+  tender, honest way to put it."
+- @caromakercomics (315, Oakland diary comics) — followed + liked + commented
+  on https://www.instagram.com/p/DdxEv_TyT8h/ : "An "Oakland Saturday" diary
+  comic is such a delight — ending on "I should go home and do laundry"
+  after a perfect day out is painfully relatable."
+- @mom.mode_activated (3.5k, mom-life/cleaning humor) — followed + commented
+  on https://www.instagram.com/p/DdusN3lS6Aq/ ("The speed I clean when
+  someone says, 'I'm on my way!'"): "Guilty — that "I'm on my way" text
+  turns me into a cleaning machine too, and anything without a home goes
+  straight into the hall closet until guests leave." Plus 5 more likes on
+  her recent posts.
+- Liked, not followed (too big / off-niche): @thealignedqueen (46.6k),
+  @zia.ren_by.canvaskrazzy (64.4k), @lous_home_ (91.2k), @tommysiegel,
+  @beckybarnicomics.
