@@ -1,7 +1,8 @@
 # Strip 014 - "Company Clean"
 
 Series: v_do_stuff - 3-slide carousel (1080x1250) - flat comic style (thick ink outlines, 2-tone cel shading), characters per LOCK v1.3
-Status: Approved by Vibhor on 2026-10-24 (final slides 014-s1/s2/s3.png). Not posted to Instagram yet.
+Status: Approved by Vibhor on 2026-10-24 (final slides 014-s1/s2/s3.png).
+Posted on Instagram October 25, 2026: https://www.instagram.com/p/De7YSKNGrk-/ (caption option 3, posted by owner with "This Is How We Do It" audio)
 Theme: slice of life - relatable, the "your place is always so tidy" reversal.
 
 ## Slide 1 - The Text
@@ -21,4 +22,4 @@ Tidy living room. Friends arrive: a generic brown couple, clearly distinct from 
 ## Notes
 - Outfits: he wears a grey tee, she a mustard cardigan (changed from 013).
 - Owner decisions: friends brown, not the same body type as the main couple, guy no beard and not heavy, girl must not look like Kajal. Open overflowing closet and her line as caption were left as drafted (no objection raised).
-- Post caption: none drafted yet.
+- Post caption: option 3 (confession-question lead), chosen by owner.
