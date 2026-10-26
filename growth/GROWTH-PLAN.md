@@ -107,6 +107,7 @@ QUESTION or SEND-TO prompt → hashtags.
 - Pull profile + insights (7d): followers delta, reach, profile visits, comments,
   shares, saves. Compare vs baseline above. Report only deltas that matter;
   kill what's not working after 3 tries.
+- 2026-10-26: 46 followers (+3 vs 43 on 2026-10-24). Last 7 days: 195 accounts reached, 86 profile visits, 78 likes, 1 comment, 3 shares, 0 saves. Best new post of the week: strip 014 "Company Clean" (Oct 25, 24 likes, 1 comment). Plan working slowly: reach is holding and the new bio + engagement sessions are converting visits into a few follows, but comments/saves still near zero — caption questions not yet landing.
 
 ### Engagement session 2 — 2026-10-25 (golden hour, strip 014 launch)
 Strip 014 "Company Clean" posted by owner ~11:44 AM PT (caption option 3,
