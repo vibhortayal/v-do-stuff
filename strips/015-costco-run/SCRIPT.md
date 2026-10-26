@@ -26,3 +26,20 @@ The apartment, buried. Bulk boxes stacked to the ceiling, the teddy bear seated 
 - Outfits: him in a navy hoodie, her in the sage green sweater (LOCK default).
 - Continuity callback: the bulging closet from strip 014 - do not explain it, returning readers get it free.
 - Next strip hook: 016 - "The Returns Line." He goes back to return the kayak. He comes home with a hot tub.
+
+## Engagement package (drafts by Spark, 2026-10-26 - for the post)
+- Caption (main): "The list: milk, eggs, spinach. / The haul: a kayak, 48
+  muffins, a 5-gallon tub of mayo, and a teddy bear the size of a tenant. /
+  The milk? Nowhere. ITEM ONE. Missing. / What's the most useless thing
+  you've ever walked out of Costco with? Confess below. / Send this to the
+  one who can't be trusted with the list." + hashtags (#costco #costcofinds
+  #costcohaul #marriedlife #desicouple #relatablecomics #sliceoflife
+  #webcomic #couplescomedy #adulting #groceryshopping)
+- Caption (short alt): "She gave me a list of three things. Costco gave me
+  a kayak. We still don't have milk."
+- Story poll A (4-option): "The list had 3 things. He bought:" -> "The 3
+  things" / "A kayak" / "47 things, no milk" / "A kayak AND no milk"
+- Story poll B (rigged binary): "Would you have bought the kayak?" -> "YES"
+  / "Also yes"
+- Pinned first comment: "Confession booth is open: what's YOUR most useless
+  Costco buy? I'll start - the kayak wasn't even the worst of it."
