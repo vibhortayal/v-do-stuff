@@ -1,7 +1,7 @@
 # Strip 015 - "Just the Essentials"
 
 Series: v_do_stuff - 3-slide carousel - flat comic style (thick ink outlines, 2-tone cel shading), characters per LOCK v1.3
-Status: Draft script by Spark (2026-10-26). Awaiting Vibhor's approval - no art yet.
+Status: Script APPROVED by Vibhor on 2026-10-26 ("perfect"). No art yet - art only on his go.
 Theme: slice of life - a three-item list meets a warehouse. Nobody survives Costco.
 
 ## Slide 1 - The List
