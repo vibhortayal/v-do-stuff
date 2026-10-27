@@ -138,3 +138,28 @@ Session (browser, @v_do_stuff): 5 follows, 15 likes, 5 comments. No warnings.
 - Liked, not followed (too big / off-niche): @thealignedqueen (46.6k),
   @zia.ren_by.canvaskrazzy (64.4k), @lous_home_ (91.2k), @tommysiegel,
   @beckybarnicomics.
+
+### Engagement session 3 — 2026-10-26 (golden hour, strip 015 Costco launch)
+Strip 015 posted by owner (https://www.instagram.com/p/De-fPoZkZmP/).
+Confession comment posted on the strip by Spark via browser (owner pins in
+app). Session: 4 follows, 7 likes, 4 comments. No warnings. Likes under
+target: the Costco-husband feed is dominated by >50k/verified/repost
+accounts, skipped per rules rather than filled off-niche.
+- @mae.celestial (8.2k) — followed + commented on
+  https://www.instagram.com/p/DbzJEsJKes4/ : "The "what did you find?" face
+  says it all — ours came home with a Lego set we absolutely did not need,
+  and somehow still no milk." (approx.; full text in session report)
+- @mgracie16 (23.7k, marriage humor) — followed + commented on
+  https://www.instagram.com/p/DbMffkuvh8R/ : ""Just grabbing a few things"
+  is the biggest Costco lie — ours turned into a giant cart, a detour down
+  every aisle, and a bulk buy we still haven't finished."
+- @vsv_stepanov (23.9k, marriage humor) — followed + commented on
+  https://www.instagram.com/p/DaA8jWKBwP1/ : ""Only here for one thing" —
+  and then the cart tells a completely different story. We did the same run
+  and came home with a bulk buy we absolutely did not plan for."
+- @have1more_ (8.1k, marriage/dad humor) — followed + commented on
+  https://www.instagram.com/p/Dezw-YghBtF/ : "A solo lap is dangerous —
+  ours was a giant pack of snacks we did not need, went in for one thing,
+  came out feeling very accomplished, and somehow still missing the thing."
+- Liked, not followed: @hopemmurray (542, personal), @choetina.media
+  (7.6k, food), @bridgettrogers23 (22.6k, mom-life).
